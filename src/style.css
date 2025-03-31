@@ -1,0 +1,16 @@
+h1, h2 {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 1.6em;
+    text-align: center;
+}
+
+h2 {
+    font-size: 1em;
+}
+
+img {
+    width: 60px;
+}
