@@ -10,23 +10,25 @@ document.addEventListener('DOMContentLoaded', () => {
     });
   });
 
-  // Copy Image to Clipboard
+  // Download SVG Image and Show Tooltip
   images.forEach((image) => {
     image.addEventListener('click', async () => {
-      try {
-        const response = await fetch(image.src); // Fetch the image
-        const blob = await response.blob(); // Convert to Blob
-        const clipboardItem = new ClipboardItem({ [blob.type]: blob });
+      if (image.src.endsWith('.svg')) {
+        // Create a temporary link element to trigger the download
+        const link = document.createElement('a');
+        link.href = image.src; // Set the href to the image's src
+        link.download = image.src.split('/').pop(); // Use the image file name as the download name
+        link.click(); // Programmatically click the link to download the image
 
-        await navigator.clipboard.write([clipboardItem]); // Copy to clipboard
-        showTooltip(image);
-      } catch (error) {
-        console.error('Failed to copy image:', error);
+        // Show the tooltip with "Downloaded!"
+        showTooltip(image, 'Downloaded!');
+      } else {
+        console.log('Not an SVG image');
       }
     });
   });
 
-  const showTooltip = (element) => {
+  const showTooltip = (element, message) => {
     let tooltip = document.getElementById('tooltip');
 
     if (!tooltip) {
@@ -44,7 +46,7 @@ document.addEventListener('DOMContentLoaded', () => {
       document.body.appendChild(tooltip);
     }
 
-    tooltip.innerText = 'Copied!';
+    tooltip.innerText = message;
     const rect = element.getBoundingClientRect();
     tooltip.style.left = `${
       rect.left + window.scrollX + rect.width / 2 - 40

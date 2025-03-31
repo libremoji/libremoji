@@ -5,12 +5,14 @@
   -khtml-user-drag: none;
   -moz-user-drag: none;
   -o-user-drag: none;
+  user-select: none;
   font-family: 'Nunito', sans-serif;
 }
 
 body {
   padding: 0 2vw;
   color: #1b1b1b;
+  overflow-x: hidden;
 }
 
 #ribbon {
@@ -32,12 +34,7 @@ header {
   display: flex;
   justify-content: center;
   margin-top: 20px;
-}
-
-h1,
-h2,
-p {
-  user-select: none;
+  pointer-events: none;
 }
 
 h1 {
