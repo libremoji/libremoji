@@ -1,8 +1,8 @@
 <svg id="emoji" version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
-  <g id="colors">
-    <path d="m65.05 36a29.05 29.05 0 0 1-29.05 29.05 29.05 29.05 0 0 1-29.05-29.05 29.05 29.05 0 0 1 29.05-29.05 29.05 29.05 0 0 1 29.05 29.05z" style="fill-rule:evenodd;fill:#ffc833;paint-order:stroke markers fill;stroke-width:0"/>
+  <g id="colors" transform="matrix(.80897 0 0 .80897 6.8772 6.8772)">
+    <path d="M 65.05,36 A 29.05,29.05 0 0 1 36,65.05 29.05,29.05 0 0 1 6.95,36 29.05,29.05 0 0 1 36,6.95 29.05,29.05 0 0 1 65.05,36 Z" style="fill-rule:evenodd;fill:#ffc833;paint-order:stroke markers fill;stroke-width:0"/>
   </g>
-  <g id="elements">
+  <g id="elements" transform="matrix(.80897 0 0 .80897 6.8772 6.8772)">
     <path d="m30.436 27.985a4.4882 4.4882 0 0 1-4.4882 4.4882 4.4882 4.4882 0 0 1-4.4882-4.4882 4.4882 4.4882 0 0 1 4.4882-4.4882 4.4882 4.4882 0 0 1 4.4882 4.4882z" style="fill-rule:evenodd;fill:#1b1b1b;paint-order:stroke markers fill;stroke-width:0"/>
     <path d="m50.54 27.985a4.4882 4.4882 0 0 1-4.4882 4.4882 4.4882 4.4882 0 0 1-4.4882-4.4882 4.4882 4.4882 0 0 1 4.4882-4.4882 4.4882 4.4882 0 0 1 4.4882 4.4882z" style="fill-rule:evenodd;fill:#1b1b1b;paint-order:stroke markers fill;stroke-width:0"/>
     <path d="m53.787 42.708a17.787 13.406 0 0 1-8.8934 11.61 17.787 13.406 0 0 1-17.787-1e-6 17.787 13.406 0 0 1-8.8934-11.61" style="fill-rule:evenodd;fill:#1b1b1b;paint-order:stroke markers fill;stroke-width:0"/>

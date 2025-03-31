@@ -1155,7 +1155,7 @@
       "name": "red heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1FA77"],
@@ -1163,7 +1163,7 @@
       "name": "pink heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F9E1"],
@@ -1171,7 +1171,7 @@
       "name": "orange heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F49B"],
@@ -1179,7 +1179,7 @@
       "name": "yellow heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F49A"],
@@ -1187,7 +1187,7 @@
       "name": "green heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F499"],
@@ -1195,7 +1195,7 @@
       "name": "blue heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1FA75"],
@@ -1203,7 +1203,7 @@
       "name": "light blue heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F49C"],
@@ -1211,7 +1211,7 @@
       "name": "purple heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F90E"],
@@ -1219,7 +1219,7 @@
       "name": "brown heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F5A4"],
@@ -1227,7 +1227,7 @@
       "name": "black heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1FA76"],
@@ -1235,7 +1235,7 @@
       "name": "grey heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F90D"],
@@ -1243,7 +1243,7 @@
       "name": "white heart",
       "category": "Smileys & Emotion",
       "subcategory": "heart",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F48B"],
@@ -8558,7 +8558,7 @@
       "name": "droplet",
       "category": "Travel & Places",
       "subcategory": "sky & weather",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F30A"],
@@ -11046,7 +11046,7 @@
       "name": "drop of blood",
       "category": "Objects",
       "subcategory": "medical",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F48A"],
