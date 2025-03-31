@@ -1,10 +1,10 @@
 # LibreMoji
 
-[emoji](./assets/72x72/1f61b.png)
+![emoji](./assets/72x72/1f61b.png)
 
 A free (as in freedom), open-source emoji collection for designers, developers, creators, and everyone else!
 
-**LibreMoji** adheres to the [Unicode 16.0.0 spec](https://unicode.org/versions/Unicode16.0.0/) and supports the [Emoji 16.0 spec](https://www.unicode.org/reports/tr51/tr51-27.html).
+LibreMoji adheres to the [Unicode 16.0.0 spec](https://unicode.org/versions/Unicode16.0.0/) and supports the [Emoji 16.0 spec](https://www.unicode.org/reports/tr51/tr51-27.html).
 
 ## Progress
 
