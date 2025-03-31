@@ -1,0 +1,11 @@
+<svg id="emoji" version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="colors">
+    <path d="m65.05 36a29.05 29.05 0 0 1-29.05 29.05 29.05 29.05 0 0 1-29.05-29.05 29.05 29.05 0 0 1 29.05-29.05 29.05 29.05 0 0 1 29.05 29.05z" style="fill-rule:evenodd;fill:#ffc833;paint-order:stroke markers fill;stroke-width:0"/>
+  </g>
+  <g id="elements">
+    <path d="m30.436 27.985a4.4882 4.4882 0 0 1-4.4882 4.4882 4.4882 4.4882 0 0 1-4.4882-4.4882 4.4882 4.4882 0 0 1 4.4882-4.4882 4.4882 4.4882 0 0 1 4.4882 4.4882z" style="fill-rule:evenodd;fill:#1b1b1b;paint-order:stroke markers fill;stroke-width:0"/>
+    <path d="m50.54 27.985a4.4882 4.4882 0 0 1-4.4882 4.4882 4.4882 4.4882 0 0 1-4.4882-4.4882 4.4882 4.4882 0 0 1 4.4882-4.4882 4.4882 4.4882 0 0 1 4.4882 4.4882z" style="fill-rule:evenodd;fill:#1b1b1b;paint-order:stroke markers fill;stroke-width:0"/>
+    <path d="m53.787 42.708a17.787 13.406 0 0 1-8.8934 11.61 17.787 13.406 0 0 1-17.787-1e-6 17.787 13.406 0 0 1-8.8934-11.61" style="fill-rule:evenodd;fill:#1b1b1b;paint-order:stroke markers fill;stroke-width:0"/>
+    <path d="m44.855 47.273a8.8555 14.731 0 0 1-4.4277 12.757 8.8555 14.731 0 0 1-8.8555 0 8.8555 14.731 0 0 1-4.4277-12.757" style="fill-rule:evenodd;fill:#ff432a;paint-order:stroke markers fill;stroke-width:0"/>
+  </g>
+</svg>

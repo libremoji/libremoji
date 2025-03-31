@@ -1,0 +1,12 @@
+<svg id="emoji" version="1.1" viewBox="0 0 72 72" xmlns="http://www.w3.org/2000/svg">
+  <g id="grid">
+    <path id="padding" d="M68,4V68H4V4H68m4-4H0V72H72V0Z" fill="#b3b3b3" style="fill:#e2e2e2"/>
+    <path id="circle" d="m65 36a29 29 0 0 1-29 29 29 29 0 0 1-29-29 29 29 0 0 1 29-29 29 29 0 0 1 29 29z" style="fill:none;stroke-miterlimit:10;stroke-width:.1;stroke:#cbcbcb"/>
+    <path id="square" d="m12.923 10.958h46.154a1.9231 1.9231 0 0 1 1.9231 1.9231v46.154a1.9231 1.9231 0 0 1-1.9231 1.9231h-46.154a1.9231 1.9231 0 0 1-1.9231-1.9231v-46.154a1.923 1.923 0 0 1 1.923-1.923z" fill="none" stroke="#00a5ff" stroke-miterlimit="10" stroke-width=".1" style="stroke:#cbcbcb"/>
+    <path id="rectangle-horizontal" transform="translate(72) rotate(90)" d="m18.254 4h35.493c1.2486 0 2.2537 1.0052 2.2537 2.2537v59.493c0 1.2486-1.0052 2.2537-2.2537 2.2537h-35.493c-1.2486 0-2.2537-1.0052-2.2537-2.2537v-59.493c0-1.2485 1.0052-2.2537 2.2537-2.2537z" style="fill:none;stroke-miterlimit:10;stroke-width:.1;stroke:#cbcbcb"/>
+    <path id="rectangle-vertical" d="m18.254 4h35.493c1.2486 0 2.2537 1.0052 2.2537 2.2537v59.493c0 1.2486-1.0052 2.2537-2.2537 2.2537h-35.493c-1.2486 0-2.2537-1.0052-2.2537-2.2537v-59.493c0-1.2485 1.0052-2.2537 2.2537-2.2537z" style="fill:none;stroke-miterlimit:10;stroke-width:.1;stroke:#cbcbcb"/>
+  </g>
+  <g id="colors"></g>
+  <g id="shadows"></g>
+  <g id="elements"></g>
+</svg>
