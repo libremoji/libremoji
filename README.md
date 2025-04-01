@@ -11,7 +11,7 @@ LibreMoji adheres to the [Unicode 16.0.0 spec](https://unicode.org/versions/Unic
 We aim at implementing all emoji defined in the aforementioned specs.
 
 Current progress:  
-**16/1909 implemented**
+**17/1909 implemented**
 
 For the full list, please check [here](./list.json).
 
