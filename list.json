@@ -227,7 +227,7 @@
       "name": "squinting face with tongue",
       "category": "Smileys & Emotion",
       "subcategory": "face-tongue",
-      "implemented": false
+      "implemented": true
     },
     {
       "code": ["1F911"],
